@@ -1,0 +1,37 @@
+{
+    "eye_problems": [
+      {
+        "title": "Cataract Treatment",
+        "description": "We are widely recognized for excellence in providing cataract treatment & surgery. With successful cataract treatment your vision will be clearer, brighter and sharper just like before."
+      },
+      {
+        "title": "Cornea Treatment",
+        "description": "Minor corneal infections are usually treated with antibacterial eye drops. If the problem is severe, it may require more intensive antibiotic or antifungal treatment to eliminate the infection, as well as steroid eye drops to reduce inflammation."
+      },
+      {
+        "title": "Glaucoma Treatment",
+        "description": "Glaucoma can be treated with eye drops, pills, laser surgery, traditional surgery or a combination of these methods. The goal of any treatment is to prevent loss of vision, as vision loss from glaucoma is irreversible."
+      },
+      {
+        "title": "Refractive Surgery",
+        "description": "Refractive eye surgery improves the refractive state of the eye and decreases or eliminates dependency on glasses or contact lenses. This can include various methods of surgical remodeling of the cornea or cataract surgery."
+      },
+      {
+        "title": "Retina Treatment",
+        "description": "The retina is a thin layer of tissue that lines the back of the eye on the inside. The purpose of the retina is to receive light that the lens has focused, convert the light into neural signals and send these signals to the brain for visual recognition."
+      },
+      {
+        "title": "Paediatric Ophthalmology",
+        "description": "Our pediatric ophthalmology department is a highly specialized, niche & advanced eye care facility offering expert diagnosis and treatment for the entire gamut of ophthalmic problems in children of various age groups."
+      },
+      {
+        "title": "Oculoplasty Treatment",
+        "description": "Oculoplasty surgery is a general term used to represent a variety of procedures that involve the orbit, eyelids, tear ducts and the face. Ocular reconstructive surgery, aesthetic eyelid surgery, facial plastic surgery and cosmetic procedures fall into this category."
+      },
+      {
+        "title": "Lasik Surgery",
+        "description": "Lasik is a surgical procedure that uses laser to correct nearsightedness, farsightedness and astigmatism. In Lasik a thin flap in the cornea is created using either a microkeratome blade or a femtosecond laser. The surgeon folds back the flap then removes some corneal tissue underneath."
+      }
+    ]
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "eye_problems": [
+      {
+        "title": "Diabetic Retinopathy Treatment",
+        "description": "Diabetic retinopathy, a complication of diabetes affecting the retina, is commonly treated with laser surgery to seal leaking blood vessels, injections of medications into the eye to reduce inflammation and vascular growth, and in severe cases, vitrectomy to remove blood from the center of the eye.",
+        "image": "/images/eyeImages/illustration-showing-diabetic-retinopathy.webp"
+      },
+      {
+        "title": "Macular Edema Treatment",
+        "description": "Macular edema, swelling in the central portion of the retina (macula), is treated with methods such as anti-VEGF injections (medications that block a protein causing abnormal blood vessels), steroids to reduce inflammation, or laser therapy to seal leaking blood vessels and reduce fluid accumulation.",
+        "image": "/images/eyeImages/macular-edema.webp" 
+      }
+    ]
+  }
+  

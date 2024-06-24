@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/dist/
+/bower_components/
+
+# Build files
+/build/
+
+# EJS cache
+*.ejs.cache
+
+# Ignore .env files with example naming conventions:
+.env.local
+.env.development
+.env.test
+.env.production
