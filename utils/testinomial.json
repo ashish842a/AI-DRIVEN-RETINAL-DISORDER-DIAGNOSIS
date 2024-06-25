@@ -1,0 +1,17 @@
+{
+    "treatments": [
+      {
+        "name": "Rahul Sharma",
+        "condition": "Diabetic Retinopathy Treatment",
+        "description": "Diabetes se hone wali diabetic retinopathy neta pind ke rakt vahiniyon ko prabhavit karti hai, jo agar ilaaj na kiya jaye to drishti mein kami ka karan ban sakti hai. Hamare clinic mein hum diabetic retinopathy ke upchar ke liye naye takneek aur vyaktigat dekhbhaal pradan karte hain, jisme laser surgery se bikhre hue rakt vahiniyon ko band kiya jata hai, aankh mein dawaiyon ke injection se sujan ko kam kiya jata hai, aur gambhir mamle mein, vitrectomy se aankh ke madhya se rakt ko hata diya jata hai. Hamara approach unchaai takniki ke saath hai jo rogiyon ke liye sakaratmak dekhbhaal aur aaram pradan karta hai, jisse diabetic retinopathy ko prabandhit kiya ja sake aur drishti ko sudhar kiya ja sake.",
+        "image":"/images/Rahul.jpg"
+      },
+      {
+        "name": "Priya Patel",
+        "condition": "Macular Edema Treatment",
+        "description": "Macular edema ek avastha hai jisme retina ke madhyaansh mein sujan hoti hai, jo drishti ko prabhavit kar sakti hai. Hamare clinic mein hum macular edema ke liye vishesh upchar pradan karte hain jo sujan ko kam karne aur drishti ko sudharne ke uddeshya se kiye jate hain. Upchar mein shamil hai anti-VEGF injection jo aniyamit rakt vahiniyon ki vriddhi ko rokne mein madad karte hain, steroi injection jo sujan ko kam karne aur laser chikitsa jo bikhre hue rakt vahiniyon ko band karne mein madad karta hai. Hamare ekspart team apne rogiyon ke vishesh avashyaktaon ke anusaar upchar yojna banati hai, jisse macular edema ka prabandhan kiya ja sake aur drishti ka samriddhikaran kiya ja sake.",
+        "image":"/images/Aman.jpeg"
+      }
+    ]
+  }
+  
